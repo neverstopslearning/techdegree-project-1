@@ -1,3 +1,1 @@
-test1.
-
-test2.
+First Project in front-end techdegree @ treehouse
